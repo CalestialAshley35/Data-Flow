@@ -26,10 +26,6 @@ To explore the content available on DataFlow, visit the following URL:
 
 If you would like to contribute to DataFlow or provide feedback, please contact Calestial Ashley through the provided channels on the website.
 
-## License
-
-This project is not open source. All rights are reserved by Calestial Ashley.
-
 ## Contact
 
 For inquiries or further information, please reach out to Calestial Ashley through the contact information available on the website.
